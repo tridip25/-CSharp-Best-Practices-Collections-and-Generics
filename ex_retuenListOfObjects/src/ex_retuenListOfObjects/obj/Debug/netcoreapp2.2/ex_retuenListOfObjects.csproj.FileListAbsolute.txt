@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\bin\Debug\netcoreapp2.2\ex_retuenListOfObjects.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\bin\Debug\netcoreapp2.2\ex_retuenListOfObjects.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\bin\Debug\netcoreapp2.2\ex_retuenListOfObjects.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\bin\Debug\netcoreapp2.2\ex_retuenListOfObjects.dll
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\bin\Debug\netcoreapp2.2\ex_retuenListOfObjects.pdb
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\obj\Debug\netcoreapp2.2\ex_retuenListOfObjects.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\obj\Debug\netcoreapp2.2\ex_retuenListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\obj\Debug\netcoreapp2.2\ex_retuenListOfObjects.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\obj\Debug\netcoreapp2.2\ex_retuenListOfObjects.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\obj\Debug\netcoreapp2.2\ex_retuenListOfObjects.dll
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_retuenListOfObjects\src\ex_retuenListOfObjects\obj\Debug\netcoreapp2.2\ex_retuenListOfObjects.pdb

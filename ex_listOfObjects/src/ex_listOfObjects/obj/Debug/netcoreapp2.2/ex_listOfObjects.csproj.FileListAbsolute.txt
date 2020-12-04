@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\bin\Debug\netcoreapp2.2\ex_listOfObjects.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\bin\Debug\netcoreapp2.2\ex_listOfObjects.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\bin\Debug\netcoreapp2.2\ex_listOfObjects.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\bin\Debug\netcoreapp2.2\ex_listOfObjects.dll
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\bin\Debug\netcoreapp2.2\ex_listOfObjects.pdb
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\obj\Debug\netcoreapp2.2\ex_listOfObjects.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\obj\Debug\netcoreapp2.2\ex_listOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\obj\Debug\netcoreapp2.2\ex_listOfObjects.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\obj\Debug\netcoreapp2.2\ex_listOfObjects.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\obj\Debug\netcoreapp2.2\ex_listOfObjects.dll
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_listOfObjects\src\ex_listOfObjects\obj\Debug\netcoreapp2.2\ex_listOfObjects.pdb
