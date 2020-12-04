@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\bin\Debug\netcoreapp2.2\ex_generic_methods.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\bin\Debug\netcoreapp2.2\ex_generic_methods.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\bin\Debug\netcoreapp2.2\ex_generic_methods.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\bin\Debug\netcoreapp2.2\ex_generic_methods.dll
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\bin\Debug\netcoreapp2.2\ex_generic_methods.pdb
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\obj\Debug\netcoreapp2.2\ex_generic_methods.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\obj\Debug\netcoreapp2.2\ex_generic_methods.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\obj\Debug\netcoreapp2.2\ex_generic_methods.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\obj\Debug\netcoreapp2.2\ex_generic_methods.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\obj\Debug\netcoreapp2.2\ex_generic_methods.dll
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic_methods\src\ex_generic_methods\obj\Debug\netcoreapp2.2\ex_generic_methods.pdb

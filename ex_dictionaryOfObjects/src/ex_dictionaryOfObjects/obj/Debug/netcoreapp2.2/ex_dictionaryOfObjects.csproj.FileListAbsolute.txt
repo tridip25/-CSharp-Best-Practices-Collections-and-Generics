@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_dictionaryOfObjects.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_dictionaryOfObjects.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_dictionaryOfObjects.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_dictionaryOfObjects.dll
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_dictionaryOfObjects.pdb
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_dictionaryOfObjects.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_dictionaryOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_dictionaryOfObjects.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_dictionaryOfObjects.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_dictionaryOfObjects.dll
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_dictionaryOfObjects\src\ex_dictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_dictionaryOfObjects.pdb
