@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\obj\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\obj\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\obj\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\obj\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\bin\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\bin\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\bin\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\bin\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.dll
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\bin\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.pdb
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\obj\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.dll
+C:\Users\Tridip\c#\my_tasks\dec_4\ex_genericInterfacesLINQ\src\ex_genericInterfacesLINQ\obj\Debug\netcoreapp2.2\ex_genericInterfacesLINQ.pdb

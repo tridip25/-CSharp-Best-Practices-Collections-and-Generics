@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\bin\Debug\netcoreapp2.2\ex_generic2_multiple.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\bin\Debug\netcoreapp2.2\ex_generic2_multiple.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\bin\Debug\netcoreapp2.2\ex_generic2_multiple.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\bin\Debug\netcoreapp2.2\ex_generic2_multiple.dll
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\bin\Debug\netcoreapp2.2\ex_generic2_multiple.pdb
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\obj\Debug\netcoreapp2.2\ex_generic2_multiple.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\obj\Debug\netcoreapp2.2\ex_generic2_multiple.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\obj\Debug\netcoreapp2.2\ex_generic2_multiple.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\obj\Debug\netcoreapp2.2\ex_generic2_multiple.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\obj\Debug\netcoreapp2.2\ex_generic2_multiple.dll
+C:\Users\Tridip\c#\my_tasks\dec_1\ex_generic2_multiple\src\ex_generic2_multiple\obj\Debug\netcoreapp2.2\ex_generic2_multiple.pdb
