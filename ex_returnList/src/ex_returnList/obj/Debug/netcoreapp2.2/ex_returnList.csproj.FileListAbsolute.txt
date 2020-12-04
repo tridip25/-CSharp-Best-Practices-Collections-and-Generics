@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\bin\Debug\netcoreapp2.2\ex_returnList.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\bin\Debug\netcoreapp2.2\ex_returnList.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\bin\Debug\netcoreapp2.2\ex_returnList.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\bin\Debug\netcoreapp2.2\ex_returnList.dll
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\bin\Debug\netcoreapp2.2\ex_returnList.pdb
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\obj\Debug\netcoreapp2.2\ex_returnList.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\obj\Debug\netcoreapp2.2\ex_returnList.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\obj\Debug\netcoreapp2.2\ex_returnList.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\obj\Debug\netcoreapp2.2\ex_returnList.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\obj\Debug\netcoreapp2.2\ex_returnList.dll
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnList\src\ex_returnList\obj\Debug\netcoreapp2.2\ex_returnList.pdb

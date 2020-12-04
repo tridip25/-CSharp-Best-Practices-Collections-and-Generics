@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.dll
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\bin\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.pdb
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.dll
+C:\Users\Tridip\c#\my_tasks\dec_2\ex_returnDictionaryOfObjects\src\ex_returnDictionaryOfObjects\obj\Debug\netcoreapp2.2\ex_returnDictionaryOfObjects.pdb

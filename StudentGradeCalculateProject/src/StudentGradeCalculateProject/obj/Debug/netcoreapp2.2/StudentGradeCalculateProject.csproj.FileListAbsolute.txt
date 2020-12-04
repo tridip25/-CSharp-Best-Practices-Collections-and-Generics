@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\bin\Debug\netcoreapp2.2\StudentGradeCalculateProject.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\bin\Debug\netcoreapp2.2\StudentGradeCalculateProject.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\bin\Debug\netcoreapp2.2\StudentGradeCalculateProject.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\bin\Debug\netcoreapp2.2\StudentGradeCalculateProject.dll
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\bin\Debug\netcoreapp2.2\StudentGradeCalculateProject.pdb
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\obj\Debug\netcoreapp2.2\StudentGradeCalculateProject.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\obj\Debug\netcoreapp2.2\StudentGradeCalculateProject.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\obj\Debug\netcoreapp2.2\StudentGradeCalculateProject.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\obj\Debug\netcoreapp2.2\StudentGradeCalculateProject.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\obj\Debug\netcoreapp2.2\StudentGradeCalculateProject.dll
+C:\Users\Tridip\c#\my_tasks\dec_4\StudentGradeCalculateProject\src\StudentGradeCalculateProject\obj\Debug\netcoreapp2.2\StudentGradeCalculateProject.pdb
